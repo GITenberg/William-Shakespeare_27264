@@ -26,5 +26,6 @@ series_note: Home University Library of Modern Knowledge, No. 2
 subjects:
 - !lcc 'PR'
 - !lcsh 'Shakespeare, William, 1564-1616 -- Criticism and interpretation'
+- GITenberg
 title: William Shakespeare
 url: http://www.gutenberg.org/ebooks/27264
